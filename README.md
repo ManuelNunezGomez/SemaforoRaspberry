@@ -1,1 +1,2 @@
 # SemaforoRaspberry
+Este código está 
